@@ -1,0 +1,17 @@
+button {
+    background-color: transparent;
+    margin-right: 10px;
+    border-radius: 100px;
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.contenedor-display-btn{
+    display:flex;
+    justify-content:center;
+}
+
+.contenedor-img-btn{
+    width: 30px;
+}
